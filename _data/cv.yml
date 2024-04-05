@@ -19,18 +19,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: MD/PhD
-      institution: Univeristy of California, Irvine School of Medicine
-      year: 2022-2030
-      description:
-        - Computer Vision
-        - Advisor: Xiaohui Xie
-      - title: Bachelors of Science
-      institution: Washington University in St. Louis
-      year: 2017-2021
-      description:
-        - Degree in Biomedical Engineering
-        - Second Major in Computer Science
+
         
 - title: Experience
   type: time_table
