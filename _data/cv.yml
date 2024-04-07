@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of California, irvine
+      institution: University of California, Irvine
       year: 2023-2027
       description:
         - Description 1.
@@ -19,7 +19,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-
+    - title: MD
+      institution: University of California, Irvine School of Medicine
+      year: 2022-2030
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
         
 - title: Experience
   type: time_table
@@ -41,7 +50,7 @@
         - ITEMS
 
 - title: Academic Interests
-  type: nested_list
+  type: Computer Vision in Medical Imaging
   contents:
     - title: Topic 1.
       items:
@@ -55,4 +64,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Traveling, Weightlifting, Cooking, Taekwondo, Surfing
