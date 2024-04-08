@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: NIH-biosketch-AnthonyWu-general.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: To see my NIH biosketch, please click on the pdf above.
 toc:
   sidebar: left
 ---
