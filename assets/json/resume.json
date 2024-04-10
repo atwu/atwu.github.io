@@ -50,12 +50,12 @@
       "highlights": ["Engineering ethics", "Artificial intelligence","Data Structures","Quantitative Physiology","Small group discussion","Lecturing"]
     }
   ],
-  "Research Grants": [
+  "research grants": [
     {
       "organization": "Radiological Society of North America (RSNA) Medical Student Grant",
       "url": "https://www.rsna.org/",
       "startDate": "2023",
-      "endDate": "present",
+      "endDate": "pres",
       "summary": "PLACEHOLDER",
       "highlights": ["PLACEHOLDER"]
     },
@@ -90,7 +90,7 @@
       "position": "Peer Reviewer for Journal of Digital Imaging",
       "url": "https://siim.org/",
       "startDate": "09/2023",
-      "endDate": "present",
+      "endDate": "pres",
       "summary": "I review articles related to machine learning and artificial intelligence as applied to medical imaging",
       "highlights": ["reviewer", "imaging"]
     },
