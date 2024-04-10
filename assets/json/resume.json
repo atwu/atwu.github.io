@@ -32,9 +32,34 @@
       "highlights": ["Diffusion Basis Spectrum Imaging", "MRI", "Machine Learning", "Multiple Sclerosis", "glioblastoma","prostate cancer"]
     },
     {
-      "name": "PLACEHOLDER",
-      "position": "PLACEHOLDER",
-      "url": "PLACEHOLDER",
+      "name": "Barnes-Jewish Hospital|Cardiothoracic Stepdown Unit",
+      "position": "Patient Care Technician",
+      "url": "https://www.barnesjewish.org/",
+      "startDate": "01/2021",
+      "endDate": "10/2021",
+      "summary": "Performed phlebotomies, EKGs, foley care, chlorohexidine treatments, CPR, LVAD and chest tube care and transport of patients. Obtained vital signs (including manual and doppler blood pressures), blood glucose, and cardiac telemetry data from patients.",
+      "highlights": ["Patient care"]
+    },
+    {
+      "name": "Washington University in St. Louis|McKelvey School of Engineering",
+      "position": "Teachers Assistant",
+      "url": "https://www.barnesjewish.org/",
+      "startDate": "10/2018",
+      "endDate": "05/2021",
+      "summary": "TAed for multiple courses including Engineering Ethics and Sustainability, Data Structures, Introduction to Artificial Intelligence, Quantitative Physiology, Introduction to Biomedical Engineering. Lectured Engineering Ethics and Sustainability.",
+      "highlights": ["Engineering ethics", "Artificial intelligence","Data Structures","Quantitative Physiology","Small group discussion","Lecturing"]
+    }
+  ],
+  "Research Grants": [
+    {
+      "organization": "Radiological Society of North America (RSNA) Medical Student Grant",
+      "startDate": "PLACEHOLDER",
+      "endDate": "PLACEHOLDER",
+      "summary": "PLACEHOLDER",
+      "highlights": ["PLACEHOLDER"]
+    },
+    {
+      "organization": "National Institute of Diabetes and Digestive and Kidney Diseases NIH T35 grant",
       "startDate": "PLACEHOLDER",
       "endDate": "PLACEHOLDER",
       "summary": "PLACEHOLDER",
