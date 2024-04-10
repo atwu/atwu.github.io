@@ -53,6 +53,7 @@
   "Research Grants": [
     {
       "organization": "Radiological Society of North America (RSNA) Medical Student Grant",
+      "url": "https://www.rsna.org/",
       "startDate": "PLACEHOLDER",
       "endDate": "PLACEHOLDER",
       "summary": "PLACEHOLDER",
@@ -60,6 +61,7 @@
     },
     {
       "organization": "National Institute of Diabetes and Digestive and Kidney Diseases NIH T35 grant",
+      "url": "https://www.niddk.nih.gov/",
       "startDate": "PLACEHOLDER",
       "endDate": "PLACEHOLDER",
       "summary": "PLACEHOLDER",
