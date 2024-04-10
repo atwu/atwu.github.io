@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Anthony T Wu, an MSTP (MD/PhD) student at the [University of California, Irvine](https://medschool.uci.edu/). I am currently a first year PhD student in [computer science](https://ics.uci.edu/) under the supervision of Professor [Xiaohui Xie](https://ics.uci.edu/~xhx/). I am interested in using computer vision to aid radiologists in helping patients.
+Hello! My name is Anthony T Wu, an MSTP (MD/PhD) student at the [University of California, Irvine](https://medschool.uci.edu/). I am currently a first year PhD student in [computer science](https://ics.uci.edu/) under the supervision of Professor [Xiaohui Xie](https://ics.uci.edu/~xhx/). I am interested in using computer vision to aid radiologists in helping patients. Currently I have collaborations with the radiology, cardiology, and orthopedic surgery departments at UCI Health/School of Medicine. In addition, I work closely with [CAIDM](https://www.caidm.som.uci.edu/) and [CARL](https://faculty.sites.uci.edu/carlab/).
 
 Research interests:
 - Artificial Intelligence (AI) and Machine Learning (ML) applications in healthcare, with special interest in medical image analysis
