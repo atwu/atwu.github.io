@@ -138,11 +138,53 @@
   ],
   "awards": [
     {
-      "title": "PLACEHOLDER",
-      "date": "PLACEHOLDER",
-      "awarder": "PLACEHOLDER",
-      "url": "PLACEHOLDER",
-      "summary": "PLACEHOLDER"
+      "title": "Graduation Honors: Honors Thesis in Computer Science and Engineering",
+      "date": "05/2021",
+      "awarder": "Washington University in St. Louis",
+      "url": "https://cse.wustl.edu/index.html",
+      "summary": "Modular Neural Network and clustering using Diffusion Basis Spectrum Imaging (DBSI) improves Prostate Cancer Grading"
+    },
+    {
+      "title": "Latin Honors: Summa Cum Laude in Biomedical Engineering",
+      "date": "05/2021",
+      "awarder": "Washington University in St. Louis",
+      "url": "https://bulletin.wustl.edu/undergrad/engineering/honors/",
+      "summary": "Top 10% of class"
+    },
+    {
+      "title": "Honors Society: Alpha Eta Mu Beta Inductee",
+      "date": "03/2021",
+      "awarder": "Alpha Eta Mu Beta",
+      "url": "http://alphaetamubeta.org/index.html",
+      "summary": "National Biomedical Engineering Honors Society"
+    },
+    {
+      "title": "Honors Society: Tau Beta Pi Inductee",
+      "date": "02/2021",
+      "awarder": "Tau Beta Pi (Gamma Chapter)",
+      "url": "https://www.tbp.org/structure.cfm",
+      "summary": "Tau Beta Pi is the oldest pan-engineering honor society and the second oldest collegiate honor society in the United States."
+    },
+    {
+      "title": "Scholarship: Christie Foundation Health Education",
+      "date": "2017-2023",
+      "awarder": "Christie Foundation",
+      "url": "https://www.christie-foundation.org/scholarships/",
+      "summary": "Each year, the Christie Foundation awards over $100,000 to students pursuing degrees in the medical field through their Health Education Scholarship program."
+    },
+    {
+      "title": "Scholarship: Stanley C. Pace Endowed Scholarship",
+      "date": "2017-2021",
+      "awarder": "Stanley C. Pace, Washington University in St. Louis",
+      "url": "https://engineering.wustl.edu/offices-services/alumni/scholarship-program.html",
+      "summary": "Named Scholars in Engineering Program. I thank Mr. Pace for his service to our country, for believing in my future and for helping me fund my education at WashU. I will always remember his generosity and continue to work hard for him and everyone else who believes in me. May he rest in peace."
+    },
+    {
+      "title": "Placeholder",
+      "date": "Placeholder",
+      "awarder": "Placeholder",
+      "url": "Placeholder",
+      "summary": "Placeholder"
     }
   ],
   "publications": [
