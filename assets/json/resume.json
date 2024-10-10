@@ -5,7 +5,7 @@
     "image": "",
     "email": "wuat2@hs.uci.edu",
     "url": "https://atwu.github.io",
-    "summary": "MSTP student in his first year of PhD in Computer Science",
+    "summary": "MSTP student in his second year of PhD in Computer Science",
     "location": {
       "address": "4059 Donald Bren Hall",
       "postalCode": "CA 92617",
@@ -235,6 +235,31 @@
         "Radiology",
         "Diagnostics",
         "Real-time feedback"
+      ]
+    },
+    {
+      "name": "Technology in Medicine Interest Group at UCI-SOM",
+      "icon": "fa-solid fa-tag",
+      "summary": "TODO",
+      "keywords": [
+        "President: 2023-present",
+        "External Affairs Chair: 2022-2023"
+      ]
+    },
+    {
+      "name": "Radiology Interest Group at UCI-SOM",
+      "icon": "fa-solid fa-tag",
+      "summary": "TODO",
+      "keywords": [
+        "Research Chair: 2023-present"
+      ]
+    },
+    {
+      "name": "UCI Taekwondo Collegiate Club Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Safety Officer",
+        "Poomsae Team"
       ]
     }
   ]
