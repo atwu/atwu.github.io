@@ -23,6 +23,24 @@
   },
   "work": [
     {
+      "name": "University of California, Irvine School of Medicine",
+      "position": "Medical Student Assistant Teacher",
+      "url": "https://medschool.uci.edu/",
+      "startDate": "08/2024",
+      "endDate": "PRES",
+      "summary": "I run teaching sessions for first year medical students",
+      "highlights": ["Teaching","Medical School", "Physiology", "Histology","Biostatistics"]
+    },
+    {
+      "name": "University of California, Irvine Department of Computer Science",
+      "position": "Graduate Researcher, Teaching Assistant",
+      "url": "https://uci-xie-lab.github.io/",
+      "startDate": "08/2023",
+      "endDate": "PRES",
+      "summary": "I perform research in medical image analysis and currently am TAing CS 284A: AI in Biology and Medicine",
+      "highlights": ["Medical Image Analysis","Teaching"]
+    },
+    {
       "name": "Mallinckrodt Institute of Radiology",
       "position": "Research Technician II",
       "url": "https://www.mir.wustl.edu/",
