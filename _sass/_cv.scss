@@ -2,6 +2,23 @@
  * CV shared styles
  *****************************/
 
+/* Prevent date badge and title overlap in resume list sections (work, volunteer, grants, education) */
+.cv .list-group-item .row {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.cv .list-group-item .row .cv-date-cell {
+  width: 120px;
+  min-width: 120px;
+  flex-shrink: 0;
+}
+.cv .list-group-item .row .cv-date-cell .badge {
+  white-space: nowrap;
+}
+.cv .list-group-item .row .cv-content-cell {
+  min-width: 0; /* allow flex item to shrink so text wraps instead of overlapping */
+}
+
 div.container-link-button {
   margin-right: 0.5rem;
 }
