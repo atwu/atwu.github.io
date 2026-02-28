@@ -18,7 +18,12 @@
               {% assign i = i | plus: 1 %}
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
-              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+              {% assign url = content.url | strip | downcase %}
+              {% if url != '' and url != 'placeholder' %}
+                <a href="{{ content.url }}">{{ content.name }}</a>
+              {% else %}
+                <span>{{ content.name }}</span>
+              {% endif %}
             </td>
           </tr>
           <tr>

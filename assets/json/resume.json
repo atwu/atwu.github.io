@@ -5,7 +5,7 @@
     "image": "",
     "email": "wuat2@hs.uci.edu",
     "url": "https://atwu.github.io",
-    "summary": "MSTP student in his second year of PhD in Computer Science",
+    "summary": "MSTP student in his third year of PhD in Computer Science",
     "location": {
       "address": "4059 Donald Bren Hall",
       "postalCode": "CA 92617",
@@ -38,7 +38,7 @@
       "startDate": "08/2023",
       "endDate": "PRES",
       "summary": "I perform research in medical image analysis and currently am TAing CS 284A: AI in Biology and Medicine",
-      "highlights": ["Medical Image Analysis","Teaching"]
+      "highlights": ["Medical Image Analysis","Teaching","Machine Learning","Artificial Intelligence"]
     },
     {
       "name": "Mallinckrodt Institute of Radiology",
@@ -73,7 +73,7 @@
       "organization": "Radiological Society of North America (RSNA) Medical Student Grant",
       "url": "https://www.rsna.org/",
       "startDate": "2023",
-      "endDate": "pres",
+      "endDate": "2024",
       "summary": "PLACEHOLDER",
       "highlights": ["PLACEHOLDER"]
     },
@@ -86,7 +86,7 @@
       "highlights": ["PLACEHOLDER"]
     },
     {
-      "organization": "UCI Radiology Training Grant",
+      "organization": "UCI Radiology Training Grant 2024",
       "url": "https://radiology.uci.edu/",
       "startDate": "07/2024",
       "endDate": "10/2024",
@@ -94,20 +94,36 @@
       "highlights": ["PLACEHOLDER"]
     },
     {
-      "organization": "PLACEHOLDER",
-      "url": "PLACEHOLDER",
-      "startDate": "PLACEHOLDER",
-      "endDate": "PLACEHOLDER",
+      "organization": "UCI Radiology Training Grant 2025",
+      "url": "https://radiology.uci.edu/",
+      "startDate": "07/2025",
+      "endDate": "10/2025",
       "summary": "PLACEHOLDER",
       "highlights": ["PLACEHOLDER"]
     }
   ],
   "mentorship": [
     {
-      "organization": "PLACEHOLDER",
-      "url": "PLACEHOLDER",
+      "student": "Gavin Shu",
       "startDate": "PLACEHOLDER",
       "endDate": "PLACEHOLDER",
+      "student status": "Medical Student at UCSF",
+      "summary": "PLACEHOLDER",
+      "highlights": ["PLACEHOLDER"]
+    },
+    {
+      "student": "Erica Liu",
+      "startDate": "PLACEHOLDER",
+      "endDate": "PLACEHOLDER",
+      "student status": "Masters Student in Computer Science at Columbia University",
+      "summary": "PLACEHOLDER",
+      "highlights": ["PLACEHOLDER"]
+    },
+    {
+      "student": "Nathan Choi",
+      "startDate": "PLACEHOLDER",
+      "endDate": "PLACEHOLDER",
+      "student status": "Computer Science Undergraduate Student at UCI",
       "summary": "PLACEHOLDER",
       "highlights": ["PLACEHOLDER"]
     }
@@ -115,7 +131,7 @@
   "volunteer": [
     {
       "organization": "Society for Imaging Informatics in Medicine",
-      "position": "Peer Reviewer for Journal of Digital Imaging",
+      "position": "Peer Reviewer for Journal of Imaging Informatics in Medicine",
       "url": "https://siim.org/",
       "startDate": "09/2023",
       "endDate": "pres",
