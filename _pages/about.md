@@ -21,6 +21,7 @@ social: true # includes social icons at the bottom of the page
 Hello! My name is Anthony T Wu, an MSTP (MD/PhD) student at the [University of California, Irvine](https://medschool.uci.edu/). I am currently a first year PhD student in [computer science](https://ics.uci.edu/) under the supervision of Professor [Xiaohui Xie](https://ics.uci.edu/~xhx/) in the [Center for Machine Learning and Intelligent Systems](https://cml.ics.uci.edu/). I am interested in using computer vision (specifically medical image analysis) to aid radiologists in helping patients. Currently I have collaborations with the radiology, cardiology, orthopedic surgery and dermatology departments at UCI Health/School of Medicine. In addition, I work closely with [Center for Applied Artificial Intelligence Research](https://airesearch.medschool.uci.edu/) and [Computational Abdominal Radiology Lab](https://faculty.sites.uci.edu/carlab/).
 
 Research interests:
+
 - Artificial Intelligence (AI) and Machine Learning (ML) applications in healthcare, with special interest in medical image analysis
 - Creating AI and ML solutions to aid physician workflow
 - Building practical AI systems for healthcare applications

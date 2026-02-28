@@ -29,7 +29,7 @@
       "startDate": "08/2024",
       "endDate": "PRES",
       "summary": "I run teaching sessions for first year medical students",
-      "highlights": ["Teaching","Medical School", "Physiology", "Histology","Biostatistics"]
+      "highlights": ["Teaching", "Medical School", "Physiology", "Histology", "Biostatistics"]
     },
     {
       "name": "University of California, Irvine Department of Computer Science",
@@ -38,7 +38,7 @@
       "startDate": "08/2023",
       "endDate": "PRES",
       "summary": "I perform research in medical image analysis and currently am TAing CS 284A: AI in Biology and Medicine",
-      "highlights": ["Medical Image Analysis","Teaching","Machine Learning","Artificial Intelligence"]
+      "highlights": ["Medical Image Analysis", "Teaching", "Machine Learning", "Artificial Intelligence"]
     },
     {
       "name": "Mallinckrodt Institute of Radiology",
@@ -47,7 +47,7 @@
       "startDate": "12/2018",
       "endDate": "08/2022",
       "summary": "I built Deep Neural Nets to classify pathology using a type of diffusion MRI called Diffusion Basis Spectrum Imaging under the supervision of Prof <a href='https://www.mir.wustl.edu/employees/sheng-kwei-victor-song/'>Sheng-kwei Song</a>",
-      "highlights": ["Diffusion Basis Spectrum Imaging", "MRI", "Machine Learning", "Multiple Sclerosis", "glioblastoma","prostate cancer"]
+      "highlights": ["Diffusion Basis Spectrum Imaging", "MRI", "Machine Learning", "Multiple Sclerosis", "glioblastoma", "prostate cancer"]
     },
     {
       "name": "Barnes-Jewish Hospital|Cardiothoracic Stepdown Unit",
@@ -65,7 +65,14 @@
       "startDate": "10/2018",
       "endDate": "05/2021",
       "summary": "TAed for multiple courses including Engineering Ethics and Sustainability, Data Structures, Introduction to Artificial Intelligence, Quantitative Physiology, Introduction to Biomedical Engineering. Lectured Engineering Ethics and Sustainability.",
-      "highlights": ["Engineering ethics", "Artificial intelligence","Data Structures","Quantitative Physiology","Small group discussion","Lecturing"]
+      "highlights": [
+        "Engineering ethics",
+        "Artificial intelligence",
+        "Data Structures",
+        "Quantitative Physiology",
+        "Small group discussion",
+        "Lecturing"
+      ]
     }
   ],
   "research grants": [
@@ -285,28 +292,18 @@
       "name": "Technology in Medicine Interest Group at UCI-SOM",
       "icon": "fa-solid fa-tag",
       "summary": "TODO",
-      "keywords": [
-        "Senior Adviser: 2025-present",
-        "President: 2023-2025",
-        "External Affairs Chair: 2022-2023"
-      ]
+      "keywords": ["Senior Adviser: 2025-present", "President: 2023-2025", "External Affairs Chair: 2022-2023"]
     },
     {
       "name": "Radiology Interest Group at UCI-SOM",
       "icon": "fa-solid fa-tag",
       "summary": "TODO",
-      "keywords": [
-        "Research Chair: 2023-2025"
-      ]
+      "keywords": ["Research Chair: 2023-2025"]
     },
     {
       "name": "UCI Taekwondo Collegiate Club Sports",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Treasurer: 2025-present",
-        "Medical Officer: 2024-present",
-        "Sparring Team: 2024-present"
-      ]
+      "keywords": ["Treasurer: 2025-present", "Medical Officer: 2024-present", "Sparring Team: 2024-present"]
     }
   ]
 }
