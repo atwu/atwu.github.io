@@ -111,28 +111,28 @@
   ],
   "mentorship": [
     {
-      "student": "Gavin Shu",
-      "startDate": "PLACEHOLDER",
-      "endDate": "PLACEHOLDER",
+      "student": "Gavin Shu, MS",
+      "startDate": "08/2023",
+      "endDate": "08/2024",
       "student status": "Medical Student at UCSF",
-      "summary": "PLACEHOLDER",
-      "highlights": ["PLACEHOLDER"]
+      "summary": "Three poster publications and two journal manuscripts",
+      "highlights": ["Research Supervision", "Publication", "Medical School Application Guidance"]
     },
     {
-      "student": "Erica Liu",
-      "startDate": "PLACEHOLDER",
-      "endDate": "PLACEHOLDER",
+      "student": "Erica Liu, BS",
+      "startDate": "04/2024",
+      "endDate": "12/2025",
       "student status": "Masters Student in Computer Science at Columbia University",
-      "summary": "PLACEHOLDER",
-      "highlights": ["PLACEHOLDER"]
+      "summary": "Conference proceedings publication (ISBI)",
+      "highlights": ["Research Supervision"]
     },
     {
       "student": "Nathan Choi",
-      "startDate": "PLACEHOLDER",
-      "endDate": "PLACEHOLDER",
+      "startDate": "02/2024",
+      "endDate": "06/2026",
       "student status": "Computer Science Undergraduate Student at UCI",
-      "summary": "PLACEHOLDER",
-      "highlights": ["PLACEHOLDER"]
+      "summary": "Two poster publications and one journal publication under my supervision",
+      "highlights": ["Research Supervision", "Publication", "Honors Thesis"]
     }
   ],
   "volunteer": [
